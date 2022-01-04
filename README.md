@@ -1,1 +1,1 @@
-rust-chat
+# the fastest chat with rooms and nicknames
