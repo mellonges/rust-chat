@@ -1,2 +1,2 @@
 # the fastest chat with rooms and nicknames
-used *Rocket*
+used __Rocket__
